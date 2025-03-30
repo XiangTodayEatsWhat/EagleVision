@@ -166,22 +166,22 @@ The attribute output is like:
 └── data
     └── SHIPRSImageNet
         └── train
-        	└── images
-			└── annfiles
+		└── images
+		└── annfiles
         	└── labelXml
         └── val
         	└── ...
-		└── EVAttrs-95K-ShipRSImageNet-train.json
+	└── EVAttrs-95K-ShipRSImageNet-train.json
     	└── EVAttrs-95K-ShipRSImageNet-val.json
     └── MAR20
         └── train
         	└── images
-			└── annfiles
+		└── annfiles
         	└── labelXml
         └── test
         	└── ...
-		└── EVAttrs-95K-MAR20-train.json
-    	└── EVAttrs-95K-MAR20-test.json
+	└── EVAttrs-95K-MAR20-train.json
+	└── EVAttrs-95K-MAR20-test.json
     └── FAIR1M
         └── train
         	└── images
@@ -191,8 +191,8 @@ The attribute output is like:
         	└── train
         		└── images
         		└── annfiles
-			└── ...
-		└── EVAttrs-95K-FAIR1M-train.json
+		└── ...
+	└── EVAttrs-95K-FAIR1M-train.json
     	└── EVAttrs-95K-FAIR1M-val.json
 
 ```
