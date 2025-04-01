@@ -1,6 +1,6 @@
 # EagleVision: Object-level Attribute Multimodal LLM for Remote Sensing
 
-<a href="" target="_blank"><img alt="Paper" src="https://img.shields.io/badge/📄 Paper-28a745?color=28a745" /></a>
+<a href="https://arxiv.org/abs/2503.23330" target="_blank"><img alt="Paper" src="https://img.shields.io/badge/📄 Paper-28a745?color=28a745" /></a>
 <a href="https://huggingface.co/liarzone" target="_blank"><img alt="Checkpoint" src="https://img.shields.io/badge/🤗 Hugging Face Models-2980b9?color=2980b9" /></a>
 <a href="https://huggingface.co/datasets/liarzone/EVAttrs-95K" target="_blank"><img alt="Data" src="https://img.shields.io/badge/🤗 Hugging Face Datasets-8e44ad?color=8e44ad" /></a>
 
@@ -182,5 +182,13 @@ python demo/app.py
 ## BibTeX
 
 ```bibtex
-% Coming soon
+@misc{jiang2025eaglevisionobjectlevelattributemultimodal,
+      title={EagleVision: Object-level Attribute Multimodal LLM for Remote Sensing}, 
+      author={Hongxiang Jiang and Jihao Yin and Qixiong Wang and Jiaqi Feng and Guo Chen},
+      year={2025},
+      eprint={2503.23330},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.23330}, 
+}
 ```
