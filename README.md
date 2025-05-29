@@ -26,8 +26,8 @@
 ## News
 
 > 🔥 [2025-03-29] **EVAttrs-95K dataset is now available!**  
-> [🔗 View on Hugging Face](https://huggingface.co/datasets/liarzone/EVAttrs-95K)
-
+> 📦 [2025-05-29] **Released preprocessed EVAttrs-95K datasets for easier start**  
+> ➕ Check them out in the [🤗 Hugging Face Dataset Repo](https://huggingface.co/datasets/liarzone/EVAttrs-95K/tree/main/format_dataset)
 ---
 
 ## 1. Introduction
